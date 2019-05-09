@@ -1,2 +1,2 @@
 # Flutterweb
-Displays an image with some text in the center of the screen.
+Displays an image, using the unsplash API, with some text in the center of the screen.
